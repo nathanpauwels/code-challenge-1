@@ -49,11 +49,13 @@ The file in this repository **"hands.txt"**, contains one-thousand random hands 
 
 Your submission:
 
+1. MUST be submitted by **11/22/2019**.
+
 1. MUST be in the form of a console application
 
 1. MUST be implemented one of the following languages: C# (.NET Core), JavaScript, Python, or Java
 
-1. MUST be runnable on Ubuntu 18.04+
+1. MUST be executable on Ubuntu 18.04+
 
 1. MUST take the path to the hands.txt file as a parameter called "-f".
     > ```$ dotnet ./path/to/myapp.dll -f /path/to/hands.txt```
@@ -61,10 +63,16 @@ Your submission:
     > ```$ node ./path/to/myapp.js -f /path/to/hands.txt```
 
     > ```$ python3 ./path/to/myapp.py -f /path/to/hands.txt```
-    > ```$ java ./path/to/myapp.jar -f /path/to/hands.txt```
+
+    > ```$ java ./path/to/myapp -f /path/to/hands.txt```
 
 # How to Participate
 
 1. Fork this repository and create a new branch on your forked copy with the prefix "solution" followed by your name, all lowercase with dashes.
     > *ex.* "solution\douglas-linsmeyer"
-2. 
+
+1. Send a message to Doug Linsmeyer with a link to your new branch in your forked repository. We'll create a new branch on this repository with the same name as your branch in your fork.
+
+1. Create your solution to the challenge and commit the work to your fork & branch.
+
+1. Submit a Pull Request from your fork and branch to the origin branch of the same name.
