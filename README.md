@@ -66,6 +66,10 @@ Your submission:
 
     > ```$ java ./path/to/myapp -f /path/to/hands.txt```
 
+1. MUST be able to run other, randomized sets of hands (don't just generate a static precalculated table of results.)
+
+1. MUST be in the spirit of competition. Although creativity is encouraged, finding ways to win without appreciating the spirit of the competition is not.
+
 # How to Participate
 
 1. Fork this repository and create a new branch on your forked copy with the prefix "solution" followed by your name, all lowercase with dashes.
@@ -76,3 +80,12 @@ Your submission:
 1. Create your solution to the challenge and commit the work to your fork & branch.
 
 1. Submit a Pull Request from your fork and branch to the origin branch of the same name.
+
+# Scoring Criteria
+* Creativity of solution approach
+* Efficiency of the solution (fastest execution time)
+* Presence and comprehensiveness of tests
+* Cleanliness of the solution
+    * Naming (variables, functions, etc...)
+    * Organization
+    * Formatting (no standard, just be deliberate)
