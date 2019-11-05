@@ -82,6 +82,7 @@ Your submission:
 1. Submit a Pull Request from your fork and branch to the origin branch of the same name.
 
 # Scoring Criteria
+
 * Creativity of solution approach
 * Efficiency of the solution (fastest execution time)
 * Presence and comprehensiveness of tests
