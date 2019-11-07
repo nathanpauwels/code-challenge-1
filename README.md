@@ -53,7 +53,7 @@ Your submission:
 
 1. MUST be in the form of a console application
 
-1. MUST be implemented one of the following languages: C# (.NET Core), JavaScript, Python, or Java
+1. MUST be implemented one of the following languages: C# (.NET Core), JavaScript, Python, BASH, PowerShell, or Java
 
 1. MUST be executable on Ubuntu 18.04+
 
